@@ -1,0 +1,6 @@
+[submodule "U-Owl-Frontend"]
+	path = U-Owl-Frontend
+	url = https://github.com/Khaled-AbHe/U-Owl-Frontend.git
+[submodule "U-Owl-Backend"]
+	path = U-Owl-Backend
+	url = https://github.com/Khaled-AbHe/U-Owl-Backend.git
